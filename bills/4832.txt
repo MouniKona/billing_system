@@ -1,0 +1,20 @@
+    Welcome Webcode Retail
+ Bill Number:4832
+Customer Name:Jagadeesh jin
+Phone Number9094027969
+================================
+Products		QTY		Price
+ Sanitizer		1		2
+ Sanitizer		10		50
+ Hand Gloves		10		120
+ Rice		1		10
+ Food Oil		1		10
+ Daal		1		6
+ Maggi		5		25
+ Sprite		2		20
+ Dettol		2		20
+ Medical Tax			Rs. 8.6
+ Grocery Tax			Rs. 255.0
+ Cold Drinks Tax			Rs. 4.0
+ Total Bil:			Rs.530.6
+--------------------------------

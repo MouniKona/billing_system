@@ -1,0 +1,23 @@
+	Welcome Webcode Retail
+ Bill Number:7229
+Customer Name:
+Phone Number
+================================
+Products		QTY		Price
+ Sanitizer		10		20
+ Sanitizer		10		50
+ Hand Gloves		10		120
+ Dettol		1		30
+ Rice		1		10
+ Food Oil		1		10
+ Daal		1		6
+ Flour		1		8
+ Maggi		5		25
+ Sprite		2		20
+ Mazza		2		20
+ Dettol		2		20
+ Medical Tax			Rs. 11.0
+ Grocery Tax			Rs. 295.0
+ Cold Drinks Tax			Rs. 6.0
+ Total Bil:			 Rs.651.0
+--------------------------------
